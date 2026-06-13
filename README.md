@@ -8,10 +8,11 @@ Solving Striver's A2Z sheet in C++.
 | Section | Solved | Total | Status |
 |---------|--------|-------|--------|
 | Patterns | 22 | 22 | ✅ Complete |
-| STL | 0 | 7 | 🔄 Next |
-| Maths | 0 | 9 | ⬜ |
-| Recursion | 0 | 3 | ⬜ |
-| Hashing | 0 | 7 | ⬜ |
+| STL | ✅ | Done |
+
+| Maths | 0 | 7 | ⬜ |
+| Recursion | 0 | 9 | ⬜ |
+| Hashing | 0 | 3 | ⬜ |
 
 ## Profiles
 - LeetCode: https://leetcode.com/ishikamidha
