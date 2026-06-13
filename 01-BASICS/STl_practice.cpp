@@ -54,15 +54,15 @@ cout<<endl;
 
 
 //UNORDERED MAP
+
 unordered_map<string,int> um;
-um["apple"]=1;
-um["banana"]=2;
-um["cherry"]=3;
-for(auto x:m){
+um["zebra"]=1;
+um["apple"]=2;
+for(auto x:um){
     cout<<x.first<<" "<<x.second<<endl;
 
 }
-
+// prints in random order, not alphabetical
 
 
 // STACK
@@ -87,13 +87,14 @@ cout << "Front after pop: " << q.front() << endl;
 //PAIRS
 pair<int, int> p = {1, 3};
 cout << p.first << " " << p.second;
+cout<<endl;
 
 //PRIORITY QUEUE(MAX HEAP)
 priority_queue<int> pq;
 pq.push(3);
 pq.push(1);
 pq.push(5);
-cout << pq.top();  // prints 5, largest first
+cout << pq.top()<<endl;  // prints 5, largest first
 pq.pop();
 
 
