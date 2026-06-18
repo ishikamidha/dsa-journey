@@ -9,8 +9,9 @@ Solving Striver's A2Z sheet in C++.
 |---------|--------|-------|--------|
 | Patterns | 22 | 22 | ✅ Complete |
 | STL | ✅ |  Done |
+| Maths | 7 | 7 | ✅ Complete |
 
-| Maths | 0 | 7 | ⬜ |
+
 | Recursion | 0 | 9 | ⬜ |
 | Hashing | 0 | 3 | ⬜ |
 
