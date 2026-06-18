@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 bool isArmstrong(int n){
@@ -34,6 +35,5 @@ int t;
             cout << "false" << endl;
         }
     }
-    return 0;
+    return 0;}
        
-}
